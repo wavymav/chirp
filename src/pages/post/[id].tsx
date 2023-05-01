@@ -20,7 +20,7 @@ const SinglePostPage: NextPage<PageProps> = ({ id }) => {
   return (
     <>
       <Head>
-        <title>{`@${data.post.content} - @${data.author.username}`}</title>
+        <title>{`${data.post.content} - @${data.author.username}`}</title>
       </Head>
       <PageLayout>
         <PostView {...data} />
