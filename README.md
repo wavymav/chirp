@@ -1,4 +1,4 @@
-<img width="448" alt="Screenshot 2023-06-14 at 2 30 23 PM" src="https://github.com/wavymav/chirp/assets/13280409/7f666317-d0e6-4749-94a7-cb9884a52b70">
+<img width="454" alt="Screenshot 2023-06-14 at 2 31 41 PM" src="https://github.com/wavymav/chirp/assets/13280409/e76d2073-a52d-4bf1-b081-46a29fc78280">
 
 # Create T3 App
 
