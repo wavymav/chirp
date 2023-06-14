@@ -1,3 +1,5 @@
+<img width="448" alt="Screenshot 2023-06-14 at 2 30 23 PM" src="https://github.com/wavymav/chirp/assets/13280409/7f666317-d0e6-4749-94a7-cb9884a52b70">
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
